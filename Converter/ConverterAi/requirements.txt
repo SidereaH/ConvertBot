@@ -1,0 +1,15 @@
+aiohttp
+aiobot
+pillow
+pydub
+aspose-words
+aiogram
+Spire.Doc
+Spire.Presentation
+python-docx
+pypandoc==1.5
+pdflatex
+pypandoc
+pyPDF2
+moviepy
+yoomoney
